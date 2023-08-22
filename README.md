@@ -1,3 +1,5 @@
+[![Publish Docker image](https://github.com/data-alebrijecircus-x/undb/actions/workflows/publish-to-dockerhub.yaml/badge.svg?branch=develop)](https://github.com/data-alebrijecircus-x/undb/actions/workflows/publish-to-dockerhub.yaml)
+
 # undb
 
 <img height="50px" src="./docs/logo.png" alt="undb" align="right" />
